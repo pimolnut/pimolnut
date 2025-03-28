@@ -8,7 +8,7 @@ My Name is Pimolnut Sriphadejkullacha
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,c,cpp,java,js,css,html,react,tailwind,vite,vue,flutter,nestjs,nodejs,jenkins,mongodb,docker,postman,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,css,html,react,tailwind,flutter,nestjs,nodejs,mongodb" />
   </a>
 </p>
 
